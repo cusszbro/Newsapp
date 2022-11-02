@@ -5,6 +5,8 @@ A brief explanation of this “news app” application, where users are given ac
 In this application also news will always be updated every day and can display up to 37 news at once, so that users always get the latest or latest news updates faster,
 In the end, if users want to read news that they find interesting, we embed a news storage feature where users can mark the news to be saved and can be viewed on a special page to make it easier for users to find and reread the news in the future.
 
+if you want to full source code in github choose the master branch
+
 please download the zip if you want to edit in android studio
 
 and please download the apk if you want to try the application directly using the android operating system.
